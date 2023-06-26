@@ -14,7 +14,7 @@ keep up with there daily tasks
 ### Future implentation of:
 * Allowing user to be able to save, store and delete task of their choosing. 
 
-Here are some screen shots of the websites tructure, 
+Here are some screen shots of the websites structure, 
 
 ![task main](https://github.com/DanielsWebDevelopment/Image-Gallery-Website/assets/129445203/c376584c-df90-4ecf-92d5-c30ac12f1d85)
 
