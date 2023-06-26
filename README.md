@@ -9,10 +9,10 @@ keep up with there daily tasks
 ### The tools the were used in this project were HTML, CSS AND JavaScript
 
 ### Some of the features include but not limited to, 
-Implentation of allowing using to store data in the task managment section
+* Implentation of allowing using to store data in the task managment section
 
 ### Future implentation of:
-Allowing user to be able to save, store and delete task of their choosing. 
+* Allowing user to be able to save, store and delete task of their choosing. 
 
 Here are some screen shots of the websites tructure, 
 
