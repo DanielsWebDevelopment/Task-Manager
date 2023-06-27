@@ -1,8 +1,8 @@
 ![Task_Manager](https://github.com/DanielsWebDevelopment/Image-Gallery-Website/assets/129445203/fd044cd1-0e9a-43ae-9587-387d21835a7d)
 
-### Welcome to my Task Manager! 
+## Welcome to my Task Manager! 
 
-## This website was created for task managment purposes, 
+### This website was created for task managment purposes, 
 the goal for this project was to allow myself and other users to be able 
 keep up with there daily tasks
 
